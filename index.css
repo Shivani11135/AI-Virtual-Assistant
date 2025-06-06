@@ -17,8 +17,8 @@ img{
 }
 .btn-box{
     background-image: url(ai-1.gif);
-    width: 320px;
-    height: 320px;
+    width: 150px;
+    height: 150px;
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
